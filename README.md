@@ -1,6 +1,6 @@
-BloomierFilter in Python
+Tetris in Java
 =================
 
-Bloomier Filter Implementation in Python
+Tetris program in Java 
 
-[read the docs](http://bloomierfilterpython.readthedocs.io/en/latest/)
+[read the docs](http://tetris-java.readthedocs.io/en/latest/)
