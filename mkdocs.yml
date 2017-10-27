@@ -1,6 +1,6 @@
-site_name: Bloomier Filter in the Python Programming Language
+site_name: Java Tetris 
 theme: readthedocs
-repo_url: https://github.com/prosseek/BloomierFilterPython
+repo_url: https://github.com/cs-nku/tetris-java
 extra_javascript:
   - extra.js
 extra_css:
